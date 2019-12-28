@@ -58,8 +58,6 @@ let createBoard = function() {
 
 createBoard();
 
-
-
 /*
 	let cardOne = cards[0];
 	cardsInPlay.push(cardOne);
